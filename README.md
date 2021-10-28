@@ -1,5 +1,5 @@
 ![badge](https://komarev.com/ghpvc/?username=Rahul-Soni28)
-
+![profileimage](assets/profile.png)
 #              👋 Hi, I’m @Rahul-Soni28         
 - 👀 I’m interested in Software development & automation practices on cloud
 - 💻: I’m currently learning Docker & kubernetes
