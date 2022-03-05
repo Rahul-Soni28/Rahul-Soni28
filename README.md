@@ -1,5 +1,5 @@
 ![badge](https://komarev.com/ghpvc/?username=Rahul-Soni28)
-![profileimage](assets/profile.png)
+
 
 <h1 align='center'> Hi!, Devs :wave:</h1>
 
